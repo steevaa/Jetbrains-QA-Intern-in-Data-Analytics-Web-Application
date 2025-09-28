@@ -12,5 +12,7 @@ The table is divided into three sections:
 In short sections $${\color{yellow}1}$$, $${\color{red}2}$$ and $${\color{green}3}$$ color coded for convenience.
 
 |No.| Test | Steps | Expected result | Actual result | Comments |
+|---|---|---|---|---|---|
 |1|Testing connections between sections|Click on one of the monthly reports of section 1-> observe results in sections 2 and 3|Monthly section is selected in both sections 2 and 3|Nothing happens|Selecting a month in section 1 does nothing|
 |2|asd|asdasd|asda|asd|asdasd|
+|||||||
